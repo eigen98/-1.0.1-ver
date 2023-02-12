@@ -20,11 +20,47 @@
 
 </p>
 
+🗓️ **작업기간** : 2022.06 ~ 현재 앱스토어 심사중 (찜하기 기능 업데이트 예정)
 
+👨‍💻 **투입인원** : 안드로이드(1명), 서버(1명), iOS(1명), 기획자(1명), 디자인(1명) - 본인 iOS 담당
 
+📒 **주요업무** 
+
+- iOS 클라이언트 외주 개발 및 배포
+- TALKPLUS, kakao auth, Firebase FCM 활용
+
+<br><br>
+
+🌱 **사용툴**
+
+`Xcode` `Zeplin` `Slack` `Notion` `Gitlab` `Postman` 
+
+## 🙆🏻‍♂️Client(iOS)
+
+---
+
+👨‍💻 **투입인원** : 2명
+
+👨‍💻 **사용 언어 :** Swift
+
+📒 **주요기술**
+
+- HTTP Client: ALAMOFIRE
+- Image Processor: KingFishrer
+- TALKPLUS API
+- kakao API
+- Firebase FCM
+- UIKit
+- KeyChainSwift
+
+📒 **디자인패턴**
+- View : View (.Xib, StoryBoard) - ViewConbroller(.swift)
+- DataManager
+- Entity : Request / Response, Codable
 <img width="80%" src="https://user-images.githubusercontent.com/68258365/217690281-a2525c7e-5d4a-4b34-a381-44d45c4386b8.mp4"/>      
 
-<img width="80%" src="https://user-images.githubusercontent.com/68258365/217690407-9a796083-03e0-4fc3-b1b9-e2308a7d9e8f.mp4"/>      
+<img width="80%" src="https://user-images.githubusercontent.com/68258365/217690407-9a796083-03e0-4fc3-b1b9-e2308a7d9e8f.mp4"/> 
+
 <img width="80%" src="https://user-images.githubusercontent.com/68258365/217690419-90f89307-82fd-4447-9454-a312c6754457.mp4"/>
 
 
